@@ -1,3 +1,4 @@
 this is just a sample
 
 Adding this line throught the new branch
+Stopping from direct merge
